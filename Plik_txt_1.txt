@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 O KOLE
 
 Kozie³, kto go zna, piwszy do pó³nocy,
@@ -8,3 +9,7 @@ A ten: "Niech ciê znam, tedy siê dowiewa".
 "Jam - pry - jest Kozie³". "IdŸ¿e spaæ do chlewa!"
 
 Jan Kochanowski
+=======
+Adding some chars.
+Adding some chars part 2.
+>>>>>>> origin/master
